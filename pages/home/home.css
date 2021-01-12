@@ -1,0 +1,26 @@
+ion-content {
+  background: linear-gradient(to bottom,#a8ff78, #78ffd6);
+}
+
+h2{
+  color: rgb(43, 40, 40);
+  text-align: center;
+}
+
+img{
+  text-align: center;
+}
+
+p{
+  color: rgb(43, 40, 40);
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ion-item{
+  background: beige;
+}
+
+.heading2 {
+  color: rgb(43, 40, 40);
+}
